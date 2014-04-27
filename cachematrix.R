@@ -1,4 +1,4 @@
-## This code caches time-consuming inverse matrix computations (eg: inverting a  matrix)
+## This script caches time-consuming inverse matrix computations
 
 ## makeCacheMatrix creates a special "matrix", which is 
 ## really a list containing a function to 
